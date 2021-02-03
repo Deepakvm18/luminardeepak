@@ -7,3 +7,11 @@ while(i>=2):
     s=s+l
     i=i-1
 print(s)
+
+#pattern=""
+# total=0
+# for i in range(1,(num+1)):
+#     pattern=str(num)*i
+#     total=total+int(pattern)
+
+# print(total)

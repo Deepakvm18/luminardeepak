@@ -3,7 +3,7 @@ limit=int(input("ENTER THE LIMIT "))
 i=1
 while(i<=limit):
     print(num,"*",i,"=",num*i)
-    i=i+1+-
+    i=i+1
 
 
 
@@ -68,4 +68,3 @@ while(i<=limit):
 
 
 
-    *
